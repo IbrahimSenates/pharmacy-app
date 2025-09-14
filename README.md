@@ -1,4 +1,4 @@
-# weather_app
+# pharmacy_app
 
 A new Flutter project.
 
